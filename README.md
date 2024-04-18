@@ -1,3 +1,3 @@
 # My travel Site
 
-![spain flag]("assets/images/aruba_flag.svg")
+![spain flag](assets/images/aruba_flag.svg)
